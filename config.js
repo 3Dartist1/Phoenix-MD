@@ -22,7 +22,7 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   AUTO_STATUS_READ: process.env.AUTO_STATUS_READ || 'false',
   //_________________________________________________________________________________________________________________________________
-  SESSION_ID: process.env.SESSION_ID || "http://2@oy1mcp7tmk/JYGZc/kax4wVzyJxpFKwUR1kewtDZnJrKCUVB7DcmyZ56yyKkGl0MbOXzaUc9/6fCpg==,es+q4qFNMeOXjErT4YWisj5FOom7WbwgjroM6N6UAAc=,xvSZ5rsqG8l3ZLpUObVur9q2nqUGkagR34A21e9hZz4=,XMVrfoi6Ydn/DNybdLibxE6papLxPc/LcIBLOkoPrpM=", //Enter Your Session Id Here
+  SESSION_ID: process.env.SESSION_ID || "http://2@uid/u4/5iwH59w2OjToEuWIEG6BXVZ2mRqwPS/iHWWkcX7QCS73V4VvxNfU0O02V/PMJQsSxNoRmCA==,2Ihi/OOTdB214AfX0DXtD35yzjbEE7z7bzBYD1MK4iU=,e3XgYGlwwH9KxU3iW0feIW32B3PPDaA4y9pbmgyr5hQ=,oO6aCbih8dX6XBgehCEVMKJAJAEYfi4lSui5Ou3j4XA=", //Enter Your Session Id Here
   //_________________________________________________________________________________________________________________________________
   SUDO: process.env.SUDO || "923019650835",
   //_________________________________________________________________________________________________________________________________
