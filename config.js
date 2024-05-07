@@ -22,9 +22,9 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   AUTO_STATUS_READ: process.env.AUTO_STATUS_READ || 'false',
   //_________________________________________________________________________________________________________________________________
-  SESSION_ID: process.env.SESSION_ID || "", //Enter Your Session Id Here
+  SESSION_ID: process.env.SESSION_ID || "http://2@oy1mcp7tmk/JYGZc/kax4wVzyJxpFKwUR1kewtDZnJrKCUVB7DcmyZ56yyKkGl0MbOXzaUc9/6fCpg==,es+q4qFNMeOXjErT4YWisj5FOom7WbwgjroM6N6UAAc=,xvSZ5rsqG8l3ZLpUObVur9q2nqUGkagR34A21e9hZz4=,XMVrfoi6Ydn/DNybdLibxE6papLxPc/LcIBLOkoPrpM=", //Enter Your Session Id Here
   //_________________________________________________________________________________________________________________________________
-  SUDO: process.env.SUDO || "919074692450",
+  SUDO: process.env.SUDO || "923019650835",
   //_________________________________________________________________________________________________________________________________
   SPAM_COUNT: process.env.SPAM_COUNT || "10",
   //_________________________________________________________________________________________________________________________________
